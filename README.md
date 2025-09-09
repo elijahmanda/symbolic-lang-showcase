@@ -67,7 +67,7 @@ graph TD
     H --> J
     I --> J
     
-    K[@jit Directive] --> G
+    K[jit Directive] --> G
     L[Hot Path Detection] --> G
     
     style D fill:#e1f5fe
