@@ -212,4 +212,29 @@ The core Symbolic project is licensed under the **AGPL-3.0** license. This showc
 **Elijah Manda**  
 📧 [elijahmandajc@gmail.com](mailto:elijahmandajc@gmail.com)
 
+For inquiries about collaboration, consulting, or technical discussions about advanced programming language implementation.ns
+- **Advanced Parser Architecture** - Sophisticated recursive descent parser with domain-specific sub-parsers and seamless syntax integration
+- **Systems Architecture & Design** - Multi-tiered execution engine with strategic performance optimization
+- **Performance Engineering** - Profile-guided optimization with selective Cython/C++ integration for critical operations
+- **Cross-Language Integration** - Seamless coordination between Python, Cython, and C++ components
+- **Type System Design** - Advanced type inference, gradual typing, and domain-specific type systems
+- **Algorithm Design** - Pattern matching engines, symbolic algebra, and multi-domain computational algorithms
+- **Software Architecture** - Modular design with clear separation of concerns and domain extensibility
+- **Scientific Domain Expertise** - Deep understanding of computational requirements across multiple scientific disciplines
+- **API Design** - Elegant domain-specific syntax design and cross-domain interoperability
+- **Testing & Quality Assurance** - Comprehensive test coverage across multiple domains and execution tiers
+
+---
+
+## 📜 License
+
+The core Symbolic project is licensed under the **AGPL-3.0** license. This showcase repository is provided for demonstration and portfolio purposes only.
+
+---
+
+## 📞 Contact
+
+**Elijah Manda**  
+📧 [elijahmandajc@gmail.com](mailto:elijahmandajc@gmail.com)
+
 For inquiries about collaboration, consulting, or technical discussions about advanced programming language implementation.
