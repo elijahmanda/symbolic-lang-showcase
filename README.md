@@ -150,7 +150,7 @@ graph TB
 
 The Symbolic codebase follows a carefully architected modular design that separates concerns and enables independent development of core systems:
 - **`runtime/`** -  Contains the foundational language runtime, implements the multi-tiered execution system, containing the AST interpreter, bytecode compiler and VM, JIT compilation interface, and memory management subsystems.
-- 
+
 - **`parsing/`** - Houses the complete lexical analysis and parsing infrastructure, including the tokenizer, recursive descent parser, including the core AST node definitions, error recovery mechanisms, and AST construction utilities, basic type system, and execution engine interfaces. This is the heart of the language implementation.
 
 - **`domains/`** - Contains the pluggable domain extension system, with specialized modules for mathematics (`math/`), physics (`physics/`), finance (`finance/`), and the domain plugin loading infrastructure.
