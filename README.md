@@ -1,5 +1,5 @@
 # 🧮 Symbolic
-**A High-Performance Interpreted Language for Mathematical Expression and Symbolic Computation**
+**A Interpreted Language for Mathematical Expression and Symbolic Computation**
 
 ![Python](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![C++](https://img.shields.io/badge/C++-17-00599C.svg)
