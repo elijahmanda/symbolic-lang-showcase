@@ -32,7 +32,6 @@
 - **Multi-Tiered Architecture**: Seamless execution across AST interpretation, bytecode compilation, and JIT compilation
 - **Dynamic JIT Compilation**: `@jit` directive for automatic hot-path optimization to native code
 - **Structured Concurrency**: Built-in async/await with structured concurrency primitives
-- **Memory Management**: Sophisticated garbage collection with cycle detection and weak references
 - **Performance Profiling**: Integrated profiler with execution path analysis and bottleneck identification
 
 ###  **Extensibility & Domains**
