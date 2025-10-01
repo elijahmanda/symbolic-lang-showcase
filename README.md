@@ -145,9 +145,7 @@ graph TB
 - **Memory Management**: Efficient data structure implementations with manual memory control
 - **Mathematical Kernels**: Optimized implementations of symbolic algebra and numerical routines
 
-### **C++** (High-Performance Core)
-- **Virtual Machine**: Core bytecode interpreter with optimized instruction dispatch
-- **Memory Management**: Custom allocators, garbage collection, and object lifecycle management
+### **C++** (High-Performance Core)-doptimizdoptimizeoptimizedptimizedi
 - **Built-in Functions**: Performance-critical implementations of mathematical and system functions
 - **JIT Backend**: Integration with LLVM for dynamic code generation and optimization
 - **Concurrency Runtime**: Thread pools, schedulers, and synchronization primitives
