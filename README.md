@@ -36,10 +36,19 @@
 - **Performance Profiling**: Integrated profiler with execution path analysis and bottleneck identification
 
 ### 🔧 **Extensibility & Domains**
-- **Pluggable Domain System**: Modular architecture supporting domain-specific extensions
-- **Mathematical Computing**: Advanced symbolic algebra, calculus, and numerical computation
-- **Physics Simulation**: Specialized constructs for physical modeling and simulation
-- **Financial Modeling**: Domain-specific types and operations for quantitative finance
+
+- **Pluggable Domain System**: Modular architecture supporting domain-specific extensions and custom type systems
+- **Mathematical Computing**: Advanced symbolic algebra, calculus, linear algebra, and numerical computation
+- **Physics Simulation**: Specialized constructs for classical mechanics, quantum systems, and fluid dynamics
+- **Financial Modeling**: Domain-specific types and operations for quantitative finance and algorithmic trading
+- **Biological Sciences**: Native support for bioinformatics, genomics, and epidemiological modeling
+- **Chemistry & Materials**: Molecular structures, chemical reactions, and computational chemistry
+- **Astronomy & Astrophysics**: High-precision celestial mechanics and cosmological simulations
+- **Engineering & CAD**: Geometric modeling, finite element analysis, and control systems
+- **Data Science & AI**: Integrated dataframes, statistical modeling, and machine learning
+- **Computer Science**: Formal verification, compiler design, and protocol implementation
+- **Geosciences**: Geophysical modeling, climate science, and remote sensing
+- **Healthcare & Medicine**: Clinical data analysis, medical imaging, and drug discovery
 - **Rich Standard Library**: Comprehensive stdlib with collections, I/O, networking, and utilities
 
 ---
