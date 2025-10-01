@@ -52,27 +52,26 @@ Symbolic's architecture is designed around a flexible, multi-tiered execution mo
 
 ```mermaid
 graph TD
-    A[Source Code] --> B[Lexer]
-    B --> C[Parser]
-    C --> D[AST]
+    A[Source Code] --> B[Lexical Analysis]
+    B --> C[Syntax Analysis]
+    C --> D[AST Construction]
+    D --> E[Type Checking]
+    E --> F[Execution Strategy Selection]
     
-    D --> E[AST Interpreter]
-    D --> F[Bytecode Compiler]
-    D --> G[JIT Compiler]
+    F --> G[AST Interpretation]
+    F --> H[Bytecode Compilation]
+    F --> I[JIT Compilation]
     
-    F --> H[Bytecode VM]
-    G --> I[Native Code]
+    G --> J[Result]
+    H --> K[Bytecode Execution]
+    I --> L[Native Execution]
     
-    E --> J[Result]
-    H --> J
-    I --> J
+    K --> J
+    L --> J
     
-    K[jit Directive] --> G
-    L[Hot Path Detection] --> G
-    
-    style D fill:#e1f5fe
-    style G fill:#fff3e0
-    style I fill:#e8f5e8
+    M[Profiling Data] --> F
+    N[Domain Extensions] --> C
+    N --> E
 ```
 
 **Pipeline Components:**
